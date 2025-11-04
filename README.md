@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/B8LhN6P.jpg" alt="Starry Night Banner" width="100%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" alt="Starry Night Banner" width="100%" />
 </p>
 
 <h1 align="center">🌌 Hey, I'm Balsem Mouella</h1>
