@@ -1,9 +1,13 @@
-<!-- Starry Night Banner -->
-![Starry Night](https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
-# 🌌 Hey, I'm Balsem Mouella
+<p align="center">
+  <img src="https://i.imgur.com/B8LhN6P.jpg" alt="Starry Night Banner" width="100%" />
+</p>
 
-💻 **Full-stack web & mobile developer** | React • Laravel • Unity  
-🎨 Passionate about **3D design**, **AI**, and **creative projects**
+<h1 align="center">🌌 Hey, I'm Balsem Mouella</h1>
+
+<p align="center">
+💻 <b>Full-stack web & mobile developer</b> | React • Laravel • Unity <br/>
+🎨 Passionate about <b>3D design</b>, <b>AI</b>, and <b>creative projects</b>
+</p>
 
 ---
 
@@ -16,5 +20,7 @@
 
 ---
 
-> “I dream my painting and then I paint my dream.”  
-
+<p align="center">
+  <i>“I dream my painting and then I paint my dream.”</i><br/>
+  — <b>Vincent Van Gogh</b>
+</p>
