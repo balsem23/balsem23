@@ -1,8 +1,9 @@
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" 
-       alt="Starry Night Banner" 
-       style="width: 200vw; height: auto; display: block; object-fit: cover; margin: 0; padding: 0;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Vincent_van_Gogh_-_The_Starry_Night_-_Google_Art_Project_-_extra_wide_crop.jpg"
+       alt="Starry Night Banner"
+       style="width: 100%; height: auto; display: block; object-fit: cover; margin: 0; padding: 0;" />
 </p>
+
 
 <h1 align="center">🌌 Hey, I'm Balsem Mouella</h1>
 
