@@ -1,7 +1,7 @@
 <p align="center" style="margin: 0; padding: 0;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" 
        alt="Starry Night Banner" 
-       style="width: 100vw; height: auto; display: block; object-fit: cover; margin: 0; padding: 0;" />
+       style="width: 100px; height: auto; display: block; object-fit: cover; margin: 0; padding: 0;" />
 </p>
 
 <h1 align="center">🌌 Hey, I'm Balsem Mouella</h1>
