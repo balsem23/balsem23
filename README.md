@@ -1,6 +1,5 @@
 <!-- Starry Night Banner -->
 ![Starry Night](https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
-
 # 🌌 Hey, I'm Balsem Mouella
 
 💻 **Full-stack web & mobile developer** | React • Laravel • Unity  
